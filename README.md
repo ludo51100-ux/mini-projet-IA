@@ -1,2 +1,2 @@
-# mini-projet-IA
+# mini-projet-portfolio
 Mini présentation portfolio
